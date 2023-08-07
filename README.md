@@ -49,7 +49,7 @@ For creating a new project,
    Save the `pom.xml` file.
 
 6. Installing Selenium WebDriver  & TestNG (Test Next Generation) Using `pom.xml`:
-   Add Selenium WebDriver Dependencies, Within the `<dependencies>` section of the `pom.xml` file, add the following lines to include Selenium WebDriver dependencies for Java:
+   Add Selenium WebDriver Dependencies, Within the `<dependencies>` section of the `pom.xml` file, add the following lines to include Selenium WebDriver % TestNG dependencies for Java:
    ```xml
    <dependencies>
             <!-- Other dependencies may be listed here -->
