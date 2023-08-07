@@ -18,9 +18,7 @@ Join our GitHub repository to explore the world of Selenium test scripts. All sk
 2. Eclipse IDE or IntelliJ IDEA
 3. Git Version Control
 
-<!-- Refer [CONTRIBUTING.md](https://github.com/Malitthh/selenium-automation/blob/main/CONTRIBUTING.md) before sending a PR. -->
-
-### Installation
+Refer [CONTRIBUTING.md](https://github.com/Malitthh/selenium-automation/blob/main/CONTRIBUTING.md) before sending a PR.
 
 ### Installation
 
@@ -79,4 +77,4 @@ For creating a new project,
 
 ### Contact
 
-<!-- Please log your concern [CONTACT.md](https://github.com/Malitthh/selenium-automation/blob/main/CONTACT.md) -->
+Please log your concern [CONTACT.md](https://github.com/Malitthh/selenium-automation/blob/main/CONTACT.md)
