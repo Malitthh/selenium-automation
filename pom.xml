@@ -22,6 +22,13 @@
 			<version>7.4.0</version> <!-- Use the latest version -->
 			<scope>test</scope>
 		</dependency>
+		
+		<dependency>
+    <groupId>io.github.bonigarcia</groupId>
+    <artifactId>webdrivermanager</artifactId>
+    <version>5.1.1</version> <!-- Use the latest version -->
+</dependency>
+
 	</dependencies>
 
 
