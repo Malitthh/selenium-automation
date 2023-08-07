@@ -54,25 +54,21 @@ For creating a new project,
    Add Selenium WebDriver Dependencies, Within the `<dependencies>` section of the `pom.xml` file, add the following lines to include Selenium WebDriver dependencies for Java:
    ```xml
    <dependencies>
-       <!-- Other dependencies may be listed here -->
-       <!-- Selenium WebDriver for Java -->
+            <!-- Other dependencies may be listed here -->
+            <!-- Selenium WebDriver for Java -->
        <dependency>
            <groupId>org.seleniumhq.selenium</groupId>
            <artifactId>selenium-java</artifactId>
            <version>3.141.59</version> <!-- Use the desired version -->
        </dependency>
+            <!-- TestNG -->
+         <dependency>
+           <groupId>org.testng</groupId>
+           <artifactId>testng</artifactId>
+           <version>7.4.0</version> <!-- Use the latest version -->
+           <scope>test</scope>
+         </dependency>
    </dependencies>
-
-   <dependencies>
-    <!-- Other dependencies may be listed here -->
-    <!-- TestNG -->
-    <dependency>
-        <groupId>org.testng</groupId>
-        <artifactId>testng</artifactId>
-        <version>7.4.0</version> <!-- Use the latest version -->
-        <scope>test</scope>
-    </dependency>
-</dependencies>
 
    
 ### Running the Tests
