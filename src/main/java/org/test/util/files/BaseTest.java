@@ -11,7 +11,7 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-import org.test.pages.PG_Login;
+import org.test.pages.PG_Config_Login;
 import org.testng.ITestResult;
 import org.testng.Reporter;
 import org.testng.annotations.AfterMethod;
@@ -24,7 +24,7 @@ public class BaseTest {
 	public ExtendReports extend;
 	public ConfigDataProvider config;
 	protected CommonActions ca;
-	protected PG_Login login;
+	protected PG_Config_Login login;
 
 	public String user;
 	public String password;
